@@ -1,0 +1,40 @@
+1|ل<tajweed class=madda_obligatory>َآ</tajweed> أُ<tajweed class=qalaqah>قْ</tajweed>سِمُ بِيَوْمِ <tajweed class=ham_wasl>ٱ</tajweed>لْقِيَ<tajweed class=madda_normal>ـٰ</tajweed>مَةِ <span class=end>١</span>
+2|وَل<tajweed class=madda_obligatory>َآ</tajweed> أُ<tajweed class=qalaqah>قْ</tajweed>سِمُ بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َفْسِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>لَّوَّامَةِ <span class=end>٢</span>
+3|أَيَحْسَبُ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نُ أَلّ<tajweed class=idgham_ghunnah>َن ن</tajweed>َّ<tajweed class=qalaqah>جْ</tajweed>مَعَ عِظَامَهُۥ <span class=end>٣</span>
+4|بَلَىٰ قَ<tajweed class=madda_normal>ـٰ</tajweed>دِرِينَ عَلَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أ<tajweed class=idgham_ghunnah>َن ن</tajweed>ُّسَوِّىَ بَنَانَهُۥ <span class=end>٤</span>
+5|بَلْ يُرِيدُ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نُ لِيَفْجُرَ أَمَامَهُۥ <span class=end>٥</span>
+6|يَسْــَٔلُ أَيَّانَ يَوْمُ <tajweed class=ham_wasl>ٱ</tajweed>لْقِيَ<tajweed class=madda_normal>ـٰ</tajweed>مَةِ <span class=end>٦</span>
+7|فَإِذَا بَرِقَ <tajweed class=ham_wasl>ٱ</tajweed>لْبَصَرُ <span class=end>٧</span>
+8|وَخَسَفَ <tajweed class=ham_wasl>ٱ</tajweed>لْقَمَرُ <span class=end>٨</span>
+9|وَجُمِعَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّمْسُ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْقَمَرُ <span class=end>٩</span>
+10|يَقُولُ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نُ يَوْمَئِذٍ أَيْنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَفَرُّ <span class=end>١٠</span>
+11|كَلَّا لَا وَزَرَ <span class=end>١١</span>
+12|إِلَىٰ رَبِّكَ يَوْمَئِذٍ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسْتَقَرُّ <span class=end>١٢</span>
+13|يُنَبَّؤُ<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نُ يَوْمَئِ<tajweed class=iqlab>ذِۭ ب</tajweed>ِمَا قَدَّمَ وَأَخَّرَ <span class=end>١٣</span>
+14|بَلِ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نُ عَلَىٰ نَفْسِه<tajweed class=madda_normal>ِۦ</tajweed> بَصِيرَةٌ <span class=end>١٤</span>
+15|وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ <span class=end>١٥</span>
+16|لَا تُحَرِّكْ بِه<tajweed class=madda_normal>ِۦ</tajweed> لِسَانَكَ لِتَعْجَلَ بِهِۦٓ <span class=end>١٦</span>
+17|إِ<tajweed class=ghunnah>نّ</tajweed>َ عَلَيْنَا جَمْعَهُ<tajweed class=madda_normal>ۥ</tajweed> وَقُرْءَانَهُۥ <span class=end>١٧</span>
+18|فَإِذَا قَرَأْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّبِعْ قُرْءَانَهُۥ <span class=end>١٨</span>
+19|ثُ<tajweed class=ghunnah>مّ</tajweed>َ إِ<tajweed class=ghunnah>نّ</tajweed>َ عَلَيْنَا بَيَانَهُۥ <span class=end>١٩</span>
+20|كَلَّا بَلْ تُحِبُّونَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَاجِلَةَ <span class=end>٢٠</span>
+21|وَتَذَرُونَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَخِرَةَ <span class=end>٢١</span>
+22|وُجُو<tajweed class=idgham_ghunnah>هٌ ي</tajweed>َوْمَئِ<tajweed class=idgham_ghunnah>ذٍ ن</tajweed>َّاضِرَةٌ <span class=end>٢٢</span>
+23|إِلَىٰ رَبِّهَا نَاظِرَةٌ <span class=end>٢٣</span>
+24|وَوُجُو<tajweed class=idgham_ghunnah>هٌ ي</tajweed>َوْمَئِ<tajweed class=iqlab>ذِۭ ب</tajweed>َاسِرَةٌ <span class=end>٢٤</span>
+25|تَظُ<tajweed class=ghunnah>نّ</tajweed>ُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>ُفْعَلَ بِهَا فَاقِرَةٌ <span class=end>٢٥</span>
+26|كَلّ<tajweed class=madda_obligatory>َآ</tajweed> إِذَا بَلَغَتِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>تَّرَاقِىَ <span class=end>٢٦</span>
+27|وَقِيلَ م<tajweed class=idgham_wo_ghunnah>َنْۜ ر</tajweed><tajweed class=madda_permissible>َا</tajweed><tajweed class=qalaqah>ق</tajweed>ٍ <span class=end>٢٧</span>
+28|وَظَ<tajweed class=ghunnah>نّ</tajweed>َ أَ<tajweed class=ghunnah>نّ</tajweed>َهُ <tajweed class=ham_wasl>ٱ</tajweed>لْفِر<tajweed class=madda_permissible>َا</tajweed><tajweed class=qalaqah>ق</tajweed>ُ <span class=end>٢٨</span>
+29|وَ<tajweed class=ham_wasl>ٱ</tajweed>لْتَفَّتِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّاقُ بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سّ<tajweed class=madda_permissible>َا</tajweed><tajweed class=qalaqah>ق</tajweed>ِ <span class=end>٢٩</span>
+30|إِلَىٰ رَبِّكَ يَوْمَئِذٍ <tajweed class=ham_wasl>ٱ</tajweed>لْمَس<tajweed class=madda_permissible>َا</tajweed><tajweed class=qalaqah>ق</tajweed>ُ <span class=end>٣٠</span>
+31|فَلَا صَدَّقَ وَلَا صَلَّىٰ <span class=end>٣١</span>
+32|وَلَ<tajweed class=madda_normal>ـٰ</tajweed>كِ<tajweed class=ikhafa>ن ك</tajweed>َذَّبَ وَتَوَلَّىٰ <span class=end>٣٢</span>
+33|ثُ<tajweed class=ghunnah>مّ</tajweed>َ ذَهَبَ إِلَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَهْلِه<tajweed class=madda_normal>ِۦ</tajweed> يَتَمَطَّىٰٓ <span class=end>٣٣</span>
+34|أَوْلَىٰ لَكَ فَأَوْلَىٰ <span class=end>٣٤</span>
+35|ثُ<tajweed class=ghunnah>مّ</tajweed>َ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ <span class=end>٣٥</span>
+36|أَيَحْسَبُ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>ُتْرَكَ سُدًى <span class=end>٣٦</span>
+37|أَلَمْ يَكُ نُ<tajweed class=qalaqah>طْ</tajweed>فَ<tajweed class=idgham_ghunnah>ةً م</tajweed>ّ<tajweed class=idgham_ghunnah>ِن م</tajweed>َّنِ<tajweed class=idgham_ghunnah>ىٍّ ي</tajweed>ُمْنَىٰ <span class=end>٣٧</span>
+38|ثُ<tajweed class=ghunnah>مّ</tajweed>َ كَانَ عَلَقَ<tajweed class=ikhafa>ةً ف</tajweed>َخَلَقَ فَسَوَّىٰ <span class=end>٣٨</span>
+39|فَجَعَلَ مِنْهُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>زَّوْجَيْنِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ذَّكَرَ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْأُ<tajweed class=ikhafa>نث</tajweed>َىٰٓ <span class=end>٣٩</span>
+40|أَلَيْسَ ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ بِقَ<tajweed class=madda_normal>ـٰ</tajweed>دِرٍ عَلَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أ<tajweed class=idgham_ghunnah>َن ي</tajweed>ُحْــِۧىَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَوْتَىٰ <span class=end>٤٠</span>
